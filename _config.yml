@@ -1,0 +1,28 @@
+name: GinaErickson
+favicon: null
+layout_spectrum: 0.36862368881702423
+typography_spectrum: 0.8453238916117698
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6653788792900741
+  lightness: 0.6286061424762011
+  saturation: 0.6129536214284599
+  rhythmicContrast: 0.5294274662155658
+purpose: []
